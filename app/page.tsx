@@ -21,7 +21,7 @@ export default function Home() {
           className="absolute inset-0 z-0 bg-gradient-to-b from-black/15 via-black/25 to-black/45"
         />
         <h1 className="z-10 max-w-[85%] text-center text-balance text-[clamp(1.75rem,8vw,3rem)] font-bold tracking-tight text-white drop-shadow-[0_2px_8px_rgba(0,0,0,0.95)]">
-          동백마을. 너만의 리듬에 맞춰봐
+          내 리듬으로 만나고, 나의 동백을 간직하다
         </h1>
       </section>
     </main>
